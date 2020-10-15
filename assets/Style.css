@@ -1,0 +1,169 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* * {
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.profile-img{
+    display: block;
+    margin: 0 auto;
+}
+.container {
+    display: grid;
+    grid-gap: 6px;
+    grid-auto-rows: minmax(min-content, max-content);
+    grid-template-columns:  1fr auto;
+
+    
+}   
+
+.one {
+    font-weight: bold;
+    color: teal;
+    grid-column-start:2 ;
+    background-color: whitesmoke;
+}
+
+.sidebar {
+    grid-column-start: 1;
+    grid-row-start: 2;
+    grid-row-end: 3;
+    background-color: whitesmoke;
+   
+
+}
+
+.two {
+    font-weight: bold;
+    color: teal;
+    grid-column-start: 2;
+    background-color: whitesmoke;
+    padding-left: 40px;
+
+
+}
+
+.three {
+    font-weight: bold;
+    color: teal;
+    grid-column-start: 2;
+    background: whitesmoke;
+    
+    
+}
+.four {
+    font-weight: bold;
+    color: teal;
+    grid-column-start: 2;
+    background: whitesmoke;
+}
+.five {
+    font-weight: bold;
+    color: teal;
+    grid-column-start: 2;
+    background: whitesmoke;
+}
+
+
+
+
+
+
+h1{
+    text-align: center;
+    color: teal;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: teal groove 3px ;
+
+}
+
+h2{
+    text-align: center;
+    color: teal;
+
+}
+
+h3{
+    text-align: left;
+    text-decoration: underline;
+    color: tomato;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+p{
+    text-align: center; 
+    font-weight: bold;
+    color: black;
+    text-align: justify;
+
+}
+.list{
+    padding: 0;
+    margin-left: 20px;
+    font-weight: bold;
+    list-style: none;
+    text-align: center;
+
+} */
